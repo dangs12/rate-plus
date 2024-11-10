@@ -18,6 +18,8 @@ Vue.js: Framework JavaScript para criar interfaces interativas.
 
 Back-end:
 
+JavaScript: Adicionar interatividade, pode ser utilizado no back-end para gerenciar dados e se comunicar com servidores.
+
 Node.js: Plataforma JavaScript para desenvolvimento de aplicações web.
 
 Banco de Dados:
@@ -48,10 +50,16 @@ Login e autenticação de usuários.
 
 [Instruções para iniciar o servidor front-end]
 
+# Diagramas UML:
+
+![Diagrama de Caso de Uso](Arquivos do Projeto/Diagramas UML/Diagrama de Caso de Uso.jpg)
+
+![Diagrama de Classes](Arquivos do Projeto/Diagramas UML/Diagrama de Classe.jpg)
+
 # Contribuições:
 
 Contribuições são bem-vindas! Por favor, siga as diretrizes de contribuição [link para diretrizes].
 
 # Licença:
 
-[Especifique a licença do projeto]
+LICENÇA DE USO DO SOFTWARE RATE+ 
