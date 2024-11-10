@@ -54,7 +54,7 @@ Login e autenticação de usuários.
 
 ![Diagrama de Caso de Uso](Arquivos do Projeto/Diagramas UML/Diagrama de Caso de Uso.jpg)
 
-![Diagrama de Classes](rate-plus/Arquivos do Projeto/Diagramas UML/Diagrama de Classe.jpg)
+![Diagrama de Classes](Arquivos do Projeto/Diagramas UML/Diagrama de Classe.jpg)
 
 # Contribuições:
 
