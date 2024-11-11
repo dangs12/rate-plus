@@ -52,9 +52,13 @@ Login e autenticação de usuários.
 
 # Diagramas UML:
 
-![Diagrama de Caso de Uso](Arquivos do Projeto/Diagramas UML/Diagrama de Caso de Uso.jpg)
+##Diagrama de Caso de Uso:
 
-![Arquivos do Projeto/Diagramas UML/Diagrama de Classe.jpg](https://github.com/dangs12/rate-plus/blob/aac191a1cabd2f85c9c38ca4128e9e011904eac6/Arquivos%20do%20Projeto/Diagramas%20UML/Diagrama%20de%20Classe.jpg))
+![Arquivos do Projeto/Diagramas UML/Diagrama de Caso de Uso.jpg](https://github.com/dangs12/rate-plus/blob/eb55c91b986399c14b534b7f7f2a29ebaf1ea222/Arquivos%20do%20Projeto/Diagramas%20UML/Diagrama%20de%20Caso%20de%20Uso.jpg)
+
+##Diagrama de Classe:
+
+![Arquivos do Projeto/Diagramas UML/Diagrama de Classe.jpg](https://github.com/dangs12/rate-plus/blob/aac191a1cabd2f85c9c38ca4128e9e011904eac6/Arquivos%20do%20Projeto/Diagramas%20UML/Diagrama%20de%20Classe.jpg)
 
 # Contribuições:
 
