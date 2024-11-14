@@ -103,7 +103,7 @@ VS Code: Ferramenta de desenvolvimento com extensões para facilitar o trabalho.
 
 ## Diagrama de Caso de Uso
 
-![Arquivos do Projeto/Diagramas UML/Diagrama de Caso de Uso.jpg]()
+![Arquivos do Projeto/Diagramas UML/Diagrama de Caso de Uso.jpg](https://github.com/dangs12/rate-plus/blob/cd14e79e1aa87f6f3a3fb4e2921b52575d933a8d/Arquivos%20do%20Projeto/Diagramas%20UML/Diagrama%20de%20Caso%20de%20Uso.jpg)
 
 ## Diagrama de Classe
 
