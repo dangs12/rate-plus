@@ -4,7 +4,7 @@
 
 ## Introdução:
 
-Este trabalho apresenta a modelagem de um sistema orientado a objetos para a gestão de dados de uma universidade, utilizando a Linguagem Unificada de Modelagem (UML). O sistema, chamado Rate+, visa centralizar e gerenciar informações de cadastro sobre pessoas físicas e jurídicas, incluindo professores, alunos e fornecedores. O trabalho inclui o diagrama de casos de uso, com descrição detalhada dos cenários para cada caso, é um diagrama de classes, que representa a estrutura do sistema e suas relações entre as classes. 
+O sistema, chamado Rate+, visa centralizar e gerenciar informações de cadastro sobre pessoas físicas e jurídicas, incluindo professores, alunos e fornecedores. O trabalho inclui o diagrama de casos de uso, com descrição detalhada dos cenários para cada caso, é um diagrama de classes, que representa a estrutura do sistema e suas relações entre as classes. 
 
 # Tecnologias Utilizadas:
 
@@ -103,7 +103,7 @@ VS Code: Ferramenta de desenvolvimento com extensões para facilitar o trabalho.
 
 ## Diagrama de Caso de Uso
 
-![Arquivos do Projeto/Diagramas UML/Diagrama de Caso de Uso.jpg](https://github.com/dangs12/rate-plus/blob/eb55c91b986399c14b534b7f7f2a29ebaf1ea222/Arquivos%20do%20Projeto/Diagramas%20UML/Diagrama%20de%20Caso%20de%20Uso.jpg)
+![Arquivos do Projeto/Diagramas UML/Diagrama de Caso de Uso.jpg]()
 
 ## Diagrama de Classe
 
