@@ -71,7 +71,15 @@ VS Code: Ferramenta de desenvolvimento com extensões para facilitar o trabalho.
 
 # Protótipo:
 
-[Insira imagens do protótipo aqui]
+![Arquivos do Projeto/Imagens do Protótipo/Protótipo Rate +/1. Tela de Login.jpg](https://github.com/dangs12/rate-plus/blob/c76ee9748719ce71e6149f0a41986eeed1fc3ee2/Arquivos%20do%20Projeto/Imagens%20do%20Prot%C3%B3tipo/Prot%C3%B3tipo%20Rate%20%2B/1.%20Tela%20de%20Login.jpg)
+![Arquivos do Projeto/Imagens do Protótipo/Protótipo Rate +/2. Tela Inicial (após login).jpg](https://github.com/dangs12/rate-plus/blob/c76ee9748719ce71e6149f0a41986eeed1fc3ee2/Arquivos%20do%20Projeto/Imagens%20do%20Prot%C3%B3tipo/Prot%C3%B3tipo%20Rate%20%2B/2.%20Tela%20Inicial%20(ap%C3%B3s%20login).jpg)
+![Arquivos do Projeto/Imagens do Protótipo/Protótipo Rate +/3. Formulários de Cadastro.jpg](https://github.com/dangs12/rate-plus/blob/c76ee9748719ce71e6149f0a41986eeed1fc3ee2/Arquivos%20do%20Projeto/Imagens%20do%20Prot%C3%B3tipo/Prot%C3%B3tipo%20Rate%20%2B/3.%20Formul%C3%A1rios%20de%20Cadastro.jpg)
+![Arquivos do Projeto/Imagens do Protótipo/Protótipo Rate +/4. Cadastro de Pessoa Física.jpg](https://github.com/dangs12/rate-plus/blob/c76ee9748719ce71e6149f0a41986eeed1fc3ee2/Arquivos%20do%20Projeto/Imagens%20do%20Prot%C3%B3tipo/Prot%C3%B3tipo%20Rate%20%2B/4.%20Cadastro%20de%20Pessoa%20F%C3%ADsica.jpg)
+![Arquivos do Projeto/Imagens do Protótipo/Protótipo Rate +/5. Cadastro de Pessoa Jurídica.jpg](https://github.com/dangs12/rate-plus/blob/c76ee9748719ce71e6149f0a41986eeed1fc3ee2/Arquivos%20do%20Projeto/Imagens%20do%20Prot%C3%B3tipo/Prot%C3%B3tipo%20Rate%20%2B/5.%20Cadastro%20de%20Pessoa%20Jur%C3%ADdica.jpg)
+![Arquivos do Projeto/Imagens do Protótipo/Protótipo Rate +/6. Cadastro de Professor.jpg](https://github.com/dangs12/rate-plus/blob/c76ee9748719ce71e6149f0a41986eeed1fc3ee2/Arquivos%20do%20Projeto/Imagens%20do%20Prot%C3%B3tipo/Prot%C3%B3tipo%20Rate%20%2B/6.%20Cadastro%20de%20Professor.jpg)
+![Arquivos do Projeto/Imagens do Protótipo/Protótipo Rate +/7. Cadastro de Fornecedor.jpg](https://github.com/dangs12/rate-plus/blob/c76ee9748719ce71e6149f0a41986eeed1fc3ee2/Arquivos%20do%20Projeto/Imagens%20do%20Prot%C3%B3tipo/Prot%C3%B3tipo%20Rate%20%2B/7.%20Cadastro%20de%20Fornecedor.jpg)
+![Arquivos do Projeto/Imagens do Protótipo/Protótipo Rate +/8.Cadastro de Aluno.jpg](https://github.com/dangs12/rate-plus/blob/c76ee9748719ce71e6149f0a41986eeed1fc3ee2/Arquivos%20do%20Projeto/Imagens%20do%20Prot%C3%B3tipo/Prot%C3%B3tipo%20Rate%20%2B/8.Cadastro%20de%20Aluno.jpg)
+![Arquivos do Projeto/Imagens do Protótipo/Protótipo Rate +/9. Conclusão de Cadastro.jpg](https://github.com/dangs12/rate-plus/blob/c76ee9748719ce71e6149f0a41986eeed1fc3ee2/Arquivos%20do%20Projeto/Imagens%20do%20Prot%C3%B3tipo/Prot%C3%B3tipo%20Rate%20%2B/9.%20Conclus%C3%A3o%20de%20Cadastro.jpg)
 
 # Como Executar:
 
