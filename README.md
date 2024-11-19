@@ -123,4 +123,4 @@ Contribuições são bem-vindas! Por favor, siga as diretrizes de contribuição
 
 # Licença:
 
-LICENÇA DE USO DO SOFTWARE RATE+ 
+![Licença de Uso do Sistema Rate+ - 2024]
