@@ -123,4 +123,4 @@ Contribuições são bem-vindas! Por favor, siga as diretrizes de contribuição
 
 # Licença:
 
-![Licença de Uso do Sistema Rate+ - 2024]
+![Licença de Uso do Sistema Rate+ - 2024](https://github.com/dangs12/rate-plus/blob/41f509c2fd9aff0915c044b9c5cd6b78e47154e5/Arquivos%20do%20Projeto/Info/Licen%C3%A7a%20de%20Uso%20do%20Sistema%20Rate%2B%20-%202024)
