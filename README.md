@@ -119,7 +119,7 @@ VS Code: Ferramenta de desenvolvimento com extensões para facilitar o trabalho.
 
 # Contribuições:
 
-Contribuições são bem-vindas! Por favor, siga as diretrizes de contribuição ![link para diretrizes](https://github.com/dangs12/rate-plus/blob/e08c7a672948ce3e857241b4711104569434b40a/Arquivos%20do%20Projeto/Info/Contribui%C3%A7%C3%B5es%20do%20Projeto%20Rate%2B).
+Contribuições são bem-vindas! Por favor, siga as diretrizes de contribuição ![[link para diretrizes]](https://github.com/dangs12/rate-plus/blob/e08c7a672948ce3e857241b4711104569434b40a/Arquivos%20do%20Projeto/Info/Contribui%C3%A7%C3%B5es%20do%20Projeto%20Rate%2B).
 
 # Licença:
 
