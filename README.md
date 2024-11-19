@@ -34,9 +34,11 @@ VS Code: Ferramenta de desenvolvimento com extensões para facilitar o trabalho.
 
 **I. Cadastro de Usuários:**
 
-* **Cadastro de Pessoa Física:** Permite o cadastro de usuários com informações pessoais (nome, CPF, data de nascimento, endereço, telefone e e-mail).
-* **Cadastro de Pessoa Jurídica:**  Permite o cadastro de entidades com informações da empresa (nome, CNPJ, endereço, telefone e e-mail).
-* **Cadastro de Professor:**  Permite o cadastro de professores com informações específicas, incluindo titulação, área de atuação, departamento e currículo (opção de upload de arquivo).
+* **Cadastro de Pessoa Física:** Permite o cadastro de usuários com informações pessoais (nome, CPF, data de nascimento, endereço, telefone, e-mail e senha).
+* **Cadastro de Pessoa Jurídica:**  Permite o cadastro de entidades com informações da empresa (nome, CNPJ, endereço, telefone, e-mail e senha).
+* **Cadastro Fornecedor:**  Permite o cadastro de usuários com informações do fornecedor (nome, CPF, endereço, telefone, e-mail, tipo de serviço e senha).
+* **Cadastro de Professor:**  Permite o cadastro de professores com informações específicas (nome, CPF, endereço, telefone, e-mail, titulação, área de atuação, departamento, currículo e senha).
+* **Cadastro de Aluno:** Permite o cadastro de usuários com informações pessoais (nome, CPF, data de nascimento, endereço, telefone, e-mail, mátricula, curso, e senha).
 * **Validação de Dados:** Realiza validações em tempo real nos campos de entrada para garantir a consistência e a correção dos dados informados (ex: CPF, CNPJ, e-mail, datas).  As validações incluem a verificação de campos obrigatórios, formatos de dados (ex: CPF, CNPJ, data), e a existência de dados duplicados.
 * **Armazenamento de Dados:** Armazena as informações dos usuários no banco de dados (SQL Server).  O sistema deve garantir a segurança dos dados armazenados.
 * **Controle de Acesso:**  Garante que apenas os usuários autorizados possam acessar os dados.
