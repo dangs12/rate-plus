@@ -44,7 +44,7 @@ VS Code: Ferramenta de desenvolvimento com extensões para facilitar o trabalho.
 
 **II. Autenticação:**
 
-* **Login:** Permite ao usuário entrar no sistema utilizando nome de usuário e senha.  Inclua mecanismos de recuperação de senha.
+* **Login:** Permite ao usuário entrar no sistema utilizando CPF, CNPJ, E-mail e senha.  Inclua mecanismos de recuperação de senha.
 * **Autenticação:** Utiliza um mecanismo de autenticação seguro (ex: hashing de senha) para garantir a segurança das credenciais do usuário.
 * **Segurança:** Implementa medidas de segurança adequadas para proteger as informações dos usuários (criptografia de dados, proteção contra ataques de força bruta, etc.).
 
@@ -87,7 +87,7 @@ VS Code: Ferramenta de desenvolvimento com extensões para facilitar o trabalho.
 
 2. **Login?**: Verifica se o usuário já está logado.
 
-3. **Validação de credenciais:** Se o usuário está logado, verifica as credenciais (nome de usuário e senha) no banco de dados.
+3. **Validação de credenciais:** Se o usuário está logado, verifica as credenciais (CPF, CNPJ, E-mail e senha) no banco de dados.
 
 4. **Redirecionar para tela de login:** Se o usuário não está logado, redireciona para a tela de login.
 
@@ -99,7 +99,7 @@ VS Code: Ferramenta de desenvolvimento com extensões para facilitar o trabalho.
 
 8. **Tipo de usuário?**: O sistema pergunta ao usuário o seu tipo para direcioná-lo ao formulário correto de cadastro.
 
-9. **Formulários de Cadastro (Pessoa Física, Pessoa Jurídica, Professor):** O sistema direciona o usuário para o formulário de cadastro específico do seu tipo de usuário.
+9. **Formulários de Cadastro (Pessoa Física, Pessoa Jurídica, Professor, Aluno e Fornecedor):** O sistema direciona o usuário para o formulário de cadastro específico do seu tipo de usuário.
 
 10. **Salvar Dados:**  Os dados são enviados ao banco de dados.
 
