@@ -52,24 +52,9 @@ VS Code: Ferramenta de desenvolvimento com extensões para facilitar o trabalho.
 
 **III. Gestão de Dados:**
 
-* **Alteração de Dados:**  Permite que os usuários alterem suas informações pessoais e de cadastro.
+* **Alteração de Dados:**  Permite que os usuários alterem suas informações pessoais de cadastro.
 * **Visualização de Dados:** Exibe informações do usuário cadastrado de forma organizada, permitindo a visualização detalhada dos dados do cadastro.
-* **Logout:** Permite ao usuário sair do sistema.
-
-
-**IV. Gerenciamento de Dados (Administração):**
-
-* Se houver um nível administrativo, poderá haver funcionalidades adicionais para gerenciar os usuários, como:
-    * **Exclusão de Usuários:** Permitir que a administração exclua usuários do sistema.
-    * **Pesquisa de Usuários:** Busca por usuários com base em critérios específicos (nome, CPF, etc).
-    * **Gerenciamento de Permissões:**  Permitir que a administração configure diferentes níveis de acesso e permissões aos usuários.
-
-
-**V. Integração e Restrições:**
-
-* **Integração com outros sistemas:** Podem existir funcionalidades para integração com outros sistemas ou serviços.
-* **Restrições de acesso:**  O acesso a determinadas funcionalidades pode ser restrito com base no tipo de usuário. Por exemplo, um usuário comum não pode alterar as informações de outro usuário.
-* **Interface amigável:**  Uma interface de usuário intuitiva e amigável para facilitar o acesso e uso de todas as funcionalidades do sistema.
+* **Voltar:** Permite ao usuário sair de uma tela específica do sistema.
 
 # Protótipo:
 
@@ -97,17 +82,17 @@ VS Code: Ferramenta de desenvolvimento com extensões para facilitar o trabalho.
 
 6. **Carrega dados de perfil do usuário:** Após a autenticação bem-sucedida, carrega os dados do usuário no sistema e exibe a tela inicial.
 
-7. **Tela inicial do sistema:**  A tela inicial exibe as funcionalidades do sistema, que podem incluir cadastro de dados, gestão de dados e logout.
+7. **Tela inicial do sistema:**  A tela inicial exibe as funcionalidades do sistema, que podem incluir cadastro de dados, esqueceu a Senha e entrar.
 
-8. **Tipo de usuário?**: O sistema pergunta ao usuário o seu tipo para direcioná-lo ao formulário correto de cadastro.
+8. **Tipo de usuário?**: O sistema fornece ao usuário a opção de cadastro de dados para aqueles que não possuem e direciona a tela de formulários de cadastro.
 
 9. **Formulários de Cadastro (Pessoa Física, Pessoa Jurídica, Professor, Aluno e Fornecedor):** O sistema direciona o usuário para o formulário de cadastro específico do seu tipo de usuário.
 
-10. **Salvar Dados:**  Os dados são enviados ao banco de dados.
+10. **Salvar Dados ou Concluir Cadastro:**  Os dados são enviados ao banco de dados.
 
-11. **Redirecionar para tela inicial (O):** Após o cadastro, o usuário é redirecionado de volta à tela inicial.
+11. **Redirecionar para tela inicial:** Após o salvamento parcial dos dados ou conclusão do cadastro, o usuário é redirecionado de volta à tela inicial.
 
-12. **Gestão de Dados**:  O usuário logado pode realizar as operações de alteração, visualização e logout.
+12. **Gestão de Dados**:  O usuário logado pode realizar as operações de alteração e visualização de dados.
 
 # Diagramas UML:
 
